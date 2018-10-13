@@ -1,3 +1,6 @@
+#GITHUB TEST
+
+
 def SetLiteral(formula, lit):
     if(formula==[]):
         return formula
