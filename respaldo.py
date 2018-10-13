@@ -160,6 +160,15 @@ class Tests(unittest.TestCase):
         #self.assertEqual(IsSatisfiable([[-3,1],[-4],[3,4]]),True)
         self.assertEqual(IsSatisfiable([[3,4],[-3,1],[-4]]),True)
 
+[[1, 2, -3], [-1, -2, 4], [3, 4]]
+[[1, 2], [1, -2], [], [-1]]
+[]
+[[-2,4],[1],[-4,-1]]
+[[-2,4],[1],[-4,-1]]
+[[-3,1],[-4],[3,4]]
+[[3,4],[-3,1],[-4]]
+[[3,4],[-3,1],[-4]]
+
     #def test_encontrarLiterales(self):
      #       self.assertEqual(encontrarLiterales(),[1,2,3,-1,-4,
 
