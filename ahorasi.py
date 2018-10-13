@@ -1,4 +1,4 @@
-#GITHUB TEST
+
 
 
 def SetLiteral(formula, lit):
